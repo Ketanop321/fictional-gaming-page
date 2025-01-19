@@ -35,7 +35,7 @@ function App() {
                 <p className="text-xl mb-8">
                   Embark on a journey through mysterious worlds and face legendary challenges.
                 </p>
-                <button className="bg-white text-primary px-8 py-3 rounded-full text-lg font-semibold hover:bg-opacity-90 transition-all">
+                <button className="bg-white text-black px-8 py-3 rounded-full text-lg font-semibold hover:bg-opacity-10 transition-all">
                   Start Your Journey
                 </button>
               </section>

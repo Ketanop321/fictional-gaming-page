@@ -11,11 +11,11 @@ const ParallaxBackground: React.FC = () => {
     <div className="fixed inset-0 -z-10 overflow-hidden">
       <motion.div 
         style={{ y: y1 }}
-        className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1534796636912-3b95b3ab5986?auto=format&fit=crop&w=2000')] bg-cover opacity-10"
+        className="absolute inset-0 bg-[url('/images/starphoto-1520034475321-cbe63696469a.avif')] bg-cover opacity-30"
       />
       <motion.div 
         style={{ y: y2 }}
-        className="absolute inset-0 bg-[url('https://images.unsplash.com/photo-1520034475321-cbe63696469a?auto=format&fit=crop&w=2000')] bg-cover opacity-5"
+        className="absolute inset-0 bg-[url('/images/starphoto-1520034475321-cbe63696469a.avif')] bg-cover opacity-5"
       />
       <motion.div 
         style={{ y: y3 }}

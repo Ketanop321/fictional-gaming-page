@@ -18,7 +18,7 @@ const equipment: Equipment[] = [
     type: 'weapon',
     icon: Sword,
     stats: { attack: 25, speed: 15 },
-    preview: 'https://images.unsplash.com/photo-1589656966895-2f33e7653819?auto=format&fit=crop&q=80&w=500'
+    preview: 'images/31a2239b-556b-4d6b-897e-a9c1dc2b6e4a_1.jpeg'
   },
   {
     id: 'shield1',
@@ -26,7 +26,7 @@ const equipment: Equipment[] = [
     type: 'armor',
     icon: Shield,
     stats: { defense: 30, health: 20 },
-    preview: 'https://images.unsplash.com/photo-1590686455577-2a56c535a89d?auto=format&fit=crop&q=80&w=500'
+    preview: 'images/573b81fd-2805-4dc5-baef-946f9e5c7667_0.jpeg'
   },
   {
     id: 'crown1',
@@ -34,7 +34,7 @@ const equipment: Equipment[] = [
     type: 'accessory',
     icon: Crown,
     stats: { magic: 20, wisdom: 15 },
-    preview: 'https://images.unsplash.com/photo-1589656966895-2f33e7653819?auto=format&fit=crop&q=80&w=500'
+    preview: 'images/e9f0f3d5-5003-412f-97a5-1f2bb6472c70_1.jpeg'
   },
   {
     id: 'staff1',
@@ -42,7 +42,7 @@ const equipment: Equipment[] = [
     type: 'weapon',
     icon: Wand2,
     stats: { magic: 35, wisdom: 25 },
-    preview: 'https://images.unsplash.com/photo-1590686455577-2a56c535a89d?auto=format&fit=crop&q=80&w=500'
+    preview: 'images/3ab87679-cf96-48c7-a676-6ea413b9f3d4_0.jpeg'
   }
 ];
 

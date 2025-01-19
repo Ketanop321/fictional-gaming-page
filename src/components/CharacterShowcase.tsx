@@ -5,19 +5,19 @@ const characters = [
   {
     name: 'The Warrior',
     role: 'Melee Combat Specialist',
-    image: 'https://images.unsplash.com/photo-1535970793482-07de93762dc4?auto=format&fit=crop&w=800',
+    image: '/images/hero-1.jpg',
     description: 'Master of close combat and tactical warfare.'
   },
   {
     name: 'The Mage',
     role: 'Elemental Spellcaster',
-    image: 'https://images.unsplash.com/photo-1614728263952-84ea256f9679?auto=format&fit=crop&w=800',
+    image: '/images/hero-2.jpg',
     description: 'Wielder of ancient magical arts and forbidden knowledge.'
   },
   {
     name: 'The Rogue',
     role: 'Stealth Specialist',
-    image: 'https://images.unsplash.com/photo-1518709766631-a6a7f45921c3?auto=format&fit=crop&w=800',
+    image: '/images/hero-3.webp',
     description: 'Expert in stealth, subterfuge, and precision strikes.'
   }
 ];

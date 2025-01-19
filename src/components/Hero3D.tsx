@@ -4,7 +4,8 @@ import { OrbitControls, PerspectiveCamera, useGLTF } from '@react-three/drei';
 import * as THREE from 'three';
 
 const Model = () => {
-  const gltf = useGLTF('https://vazxmixjsiawhamofees.supabase.co/storage/v1/object/public/models/low-poly-spaceship/model.gltf', true); // Enable Draco compression
+  const gltf = useGLTF('models/model.gltf', true); // Enable Draco compression
+  console.log(gltf)
   return <primitive object={gltf.scene} scale={2} position={[0, 0, 0]} />;
 };
 

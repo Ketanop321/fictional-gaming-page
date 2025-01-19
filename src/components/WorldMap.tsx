@@ -34,14 +34,14 @@ const WorldMap: React.FC = () => {
 
   return (
     <section className="py-20">
-      <h2 className="text-4xl font-bold text-center mb-16">World Map</h2>
+      <h2 className="text-4xl font-bold text-center mb-16">Game Map</h2>
       <div className="relative w-full max-w-4xl mx-auto h-[600px] rounded-lg overflow-hidden">
         {/* Map Background */}
         <div 
           className="absolute inset-0 bg-cover bg-center"
           style={{ 
-            backgroundImage: 'url("https://images.unsplash.com/photo-1524813686514-a57563d77965?auto=format&fit=crop&q=80&w=2000")',
-            filter: 'sepia(50%) brightness(50%)'
+            backgroundImage: 'url("/images/worldmap.avif")',
+            filter: 'sepia(10%) brightness(68%)'
           }}
         />
         
