@@ -3,19 +3,19 @@ import { motion } from 'framer-motion';
 
 const characters = [
   {
-    name: 'The Warrior',
+    name: 'Dabi',
     role: 'Melee Combat Specialist',
     image: '/images/hero-1.jpg',
     description: 'Master of close combat and tactical warfare.'
   },
   {
-    name: 'The Mage',
+    name: 'Sung Jin-Woo',
     role: 'Elemental Spellcaster',
     image: '/images/hero-2.jpg',
     description: 'Wielder of ancient magical arts and forbidden knowledge.'
   },
   {
-    name: 'The Rogue',
+    name: 'Garou',
     role: 'Stealth Specialist',
     image: '/images/hero-3.webp',
     description: 'Expert in stealth, subterfuge, and precision strikes.'
