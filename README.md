@@ -1,4 +1,4 @@
-# Epic Adventure Game Landing Page
+ # Epic Adventure Game Landing Page
 
 A stunning, interactive landing page for an epic adventure game built with modern web technologies.
 
